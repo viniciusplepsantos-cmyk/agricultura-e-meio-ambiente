@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroFuturo 2026 | Agricultura e Meio Ambiente</title>
+    <link rel="stylesheet" href="AgroFuturo%202026%20_%20Agricultura%20e%20Meio%20Ambiente_arquivos/style.css">
+</head>
+<body>
+
+    <nav class="barra-acessibilidade" aria-label="Controles de Acessibilidade">
+        <button id="btn-aumentar" title="Aumentar Fonte" aria-label="Aumentar Fonte">A+</button>
+        <button id="btn-diminuir" title="Diminuir Fonte" aria-label="Diminuir Fonte">A-</button>
+        <button id="btn-tema" title="Alternar Modo Escuro/Claro" aria-label="Alternar Modo Escuro/Claro">🌓</button>
+        <button id="btn-falar" title="Iniciar Leitura por Voz" aria-label="Iniciar Leitura por Voz">🔊</button>
+        <button id="btn-parar" title="Parar Leitura por Voz" aria-label="Parar Leitura por Voz">⏹️</button>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-container">
+            <div class="hero-content">
+                <span class="badge">Inovação Digital &amp; Sustentabilidade</span>
+                <h1>Agricultura &amp; Meio Ambiente</h1>
+                <p>Conectando a inteligência artificial ao ecossistema do campo para criar o amanhã do desenvolvimento sustentável.</p>
+                <a href="#conteudo-principal" class="btn-primary">Explorar Ecossistema</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-container" id="conteudo-principal">
+        
+        <section class="conteudo-principal" id="area-leitura">
+            
+            <article class="bloco-texto">
+                <h2>O Novo Paradigma Global</h2>
+                <p>O avançado estágio de degradação do meio ambiente e 
+suas conseqüências desastrosas tais como a poluição generalizada, o 
+comprometimento de recursos hídricos, a desertificação, o efeito estufa,
+ entre tantos outros, provocaram o surgimento de uma nova postura 
+mundial em relação ao ambiente.</p>
+                <p>A consolidação dessa nova postura se deu na 
+Conferência das Nações Unidas para o Meio Ambiente e Desenvolvimento 
+onde foi definido um novo paradigma: <strong>o desenvolvimento sustentável</strong>.
+ A sustentabilidade é baseada em fatores de natureza ambiental, 
+econômica e social, pois o desenvolvimento sustentável não será 
+alcançado com base apenas na conservação de recursos naturais. O que não
+ for competitivo economicamente não é sustentável.</p>
+            </article>
+
+            <div class="imagem"> <img src="AgroFuturo%202026%20_%20Agricultura%20e%20Meio%20Ambiente_arquivos/foto1.png" alt="o que a planta precisa para desemvolver (sol,agua,luz)."> </div>
+
+            <article class="bloco-texto">
+                <h2>Exigências do Mercado e Mudança Estrutural</h2>
+                <p>Da mesma maneira, o desenvolvimento só é atingido se 
+as condições sociais satisfizerem todos os envolvidos no processo. Um 
+dos reflexos da conscientização da necessidade de sustentabilidade é o 
+faito de que as demandas ambientais e sociais estão cada vez mais 
+presentes em todos os segmentos produtivos, inclusive o agrícola.</p>
+                <p>Mudanças estruturais no meio rural e nas práticas 
+para a produção agrícola têm sido impostas pelo mercado, com o objetivo 
+de que padrões ambientais sejam adotados e necessidades sociais sejam 
+satisfeitas.</p>
+            </article>
+
+            <div class="imagem"> <img src="AgroFuturo%202026%20_%20Agricultura%20e%20Meio%20Ambiente_arquivos/foto2.png" alt="."> </div>
+
+            <section class="accordion-section">
+                <h2>Árvore do Conhecimento</h2>
+                <p class="accordion-intro">A Árvore do Conhecimento 
+Agricultura e Meio Ambiente oferece informações sobre o meio ambiente e a
+ produção rural, divididas em três grandes temas. Clique para expandir:</p>
+                
+                <div class="accordion-item">
+                    <button class="accordion-header" aria-expanded="false" aria-controls="acc-manejo">
+                        <span>Manejo</span>
+                        <span class="icon-seta"></span>
+                    </button>
+                    <div id="acc-manejo" class="accordion-content" hidden="">
+                        <p>Práticas tecnológicas aplicadas à conservação
+ do solo, rotação de culturas inteligente com uso de IA e otimização 
+precisa dos recursos hídricos para evitar desperdícios.</p>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <button class="accordion-header" aria-expanded="false" aria-controls="acc-qualidade">
+                        <span>Qualidade</span>
+                        <span class="icon-seta"></span>
+                    </button>
+                    <div id="acc-qualidade" class="accordion-content" hidden="">
+                        <p>Monitoramento em tempo real dos padrões de 
+pureza, redução ativa de resíduos químicos e certificação digital de 
+rastreabilidade de ponta a ponta na cadeia produtiva rural.</p>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <button class="accordion-header" aria-expanded="false" aria-controls="acc-politicas">
+                        <span>Políticas Agroambientais</span>
+                        <span class="icon-seta"></span>
+                    </button>
+                    <div id="acc-politicas" class="accordion-content" hidden="">
+                        <p>Alinhamento estrito com as legislações 
+globais e locais, créditos de carbono integrados via blockchain e 
+adequações aos parâmetros do desenvolvimento econômico-social.</p>
+                    </div>
+                </div>
+            </section>
+
+            <div class="imagem"> <img src="AgroFuturo%202026%20_%20Agricultura%20e%20Meio%20Ambiente_arquivos/foto3.png" alt="Sensores IoT enterrados na raiz de plantas enviando sinais luminosos de dados agronômicos."> </div>
+
+            <section class="quiz-container">
+                <div class="quiz-header">
+                    <h3>Desafio AgroFuturo: Teste seus Conhecimentos</h3>
+                    <p>Avalie seu entendimento sobre o paradigma do desenvolvimento sustentável no campo.</p>
+                </div>
+                <div id="quiz-corpo"><p class="quiz-pergunta"><strong>Qual é o pilar de sustentação do novo paradigma do desenvolvimento sustentável definido pelas Nações Unidas?</strong></p>
+                <button class="quiz-opcao errada" data-index="0" disabled="disabled">
+                    Apenas a conservação estrita e intocável dos recursos naturais selvagens.
+                </button>
+            
+                <button class="quiz-opcao" data-index="1" disabled="disabled">
+                    A união equilibrada de fatores de natureza ambiental, econômica e social.
+                </button>
+            
+                <button class="quiz-opcao" data-index="2" disabled="disabled">
+                    A maximização do lucro agrícola sem restrições mercadológicas mundiais.
+                </button>
+            
+                <button class="quiz-opcao" data-index="3" disabled="disabled">
+                    A substituição total da força de trabalho humana rural por inteligências robóticas.
+                </button>
+            </div>
+                <div id="quiz-resultado" class="quiz-resultado" style="color: rgb(229, 115, 115);">Resposta
+ incorreta. Lembre-se: o desenvolvimento só é sustentável se for 
+competitivo economicamente e satisfizer as condições sociais.</div>
+            </section>
+
+        </section>
+
+        <aside class="sidebar-direita">
+            <div class="card-formulario">
+                <div class="form-header">
+                    <h3>Fique por Dentro do Futuro</h3>
+                    <p>Se quiser mais dicas como essa se inscreva e da um joinha.</p>
+                </div>
+                <form id="form-inscricao" novalidate="">
+                    <div class="form-group">
+                        <label for="txt-nome">Nome</label>
+                        <input type="text" id="txt-nome" placeholder="Seu nome completo" required="">
+                    </div>
+                    <div class="form-group">
+                        <label for="txt-email">E-mail</label>
+                        <input type="email" id="txt-email" placeholder="seu.email@tech.com" required="">
+                    </div>
+                    <div class="form-group-row">
+                        <div class="form-group">
+                            <label for="txt-cidade">Cidade</label>
+                            <input type="text" id="txt-cidade" placeholder="Ex: Petrolina" required="">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-estado">Estado</label>
+                            <input type="text" id="txt-estado" placeholder="Ex: PE" required="">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="txt-pais">País</label>
+                        <input type="text" id="txt-pais" placeholder="Ex: Brasil" required="">
+                    </div>
+                    <div class="form-group">
+                        <label for="txt-telefone">Telefone</label>
+                        <input type="tel" id="txt-telefone" placeholder="(00) 00000-0000" required="">
+                    </div>
+                    <button type="submit" class="btn-submit">Inscrever-se Agora</button>
+                </form>
+                <div id="form-feedback" class="form-feedback" hidden=""></div>
+            </div>
+        </aside>
+
+    </main>
+
+    <footer class="rodape-futurista">
+        <div class="rodape-conteudo">
+            <div class="rodape-frase">
+                <p><strong>AgroFuturo 2026 °</strong> Conectando a inteligência tecnológica à terra de forma sustentável</p>
+            </div>
+            <div class="rodape-referencias">
+                <h4>Referências Utilizadas</h4>
+                <ul>
+                    <li><a href="https://www.bemagro.com/beneficios-inteligencia-artificial-no-campo/" target="_blank" rel="noopener noreferrer">BemAgro - Benefícios da IA no Campo</a></li>
+                    <li><a href="https://www.agrolink.com.br/noticias/o-campo-conectado--como-a-ia-vem-transformando-o-agro_514351.html" target="_blank" rel="noopener noreferrer">Agrolink - O Campo Conectado &amp; Transformações</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <script src="AgroFuturo%202026%20_%20Agricultura%20e%20Meio%20Ambiente_arquivos/script.js"></script>
+
+</body></html>
